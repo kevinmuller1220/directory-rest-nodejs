@@ -11,7 +11,5 @@ npm install
 node server.js
 
 
-
+## More Resources ##
 A PHP / MySQL version of these RESTful services is available in [this repository](https://github.com/kevinmuller1220/directory-rest-php)
-
-
